@@ -2,8 +2,6 @@
 
 My name is Isaac Louzeiro
 
-I'm A Front-end Developer 💻. IT techinicians at ETEC in São Paulo - SP
-
 Recently my passion is create websites. I'm constantly evolving 👨‍💻.
 
 ###  non dvcor dvco! 🇧🇷
