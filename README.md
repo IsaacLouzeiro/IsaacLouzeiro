@@ -11,4 +11,4 @@ Recently my passion is create websites. I'm constantly evolving 👨‍💻.
 
 👇 reach out to me
 
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaac-louzeiro/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaac-louzeiro/)](https://www.linkedin.com/in/isaac-louzeiro/)
