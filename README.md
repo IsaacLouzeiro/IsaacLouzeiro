@@ -6,7 +6,9 @@ Recently my passion is create websites. I'm constantly evolving 👨‍💻.
 
 ###  non ducor duco | 🇧🇷
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacLouzeiro&layout=compact)](https://github.com/IsaacLouzeiro/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacLouzeiro&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacLouzeiro&layout=compact&theme=radical)](https://github.com/IsaacLouzeiro/github-readme-stats)
 
 - 📍 From São Paulo living in São Paulo
 - 💻 Front-End Developer
