@@ -4,12 +4,12 @@ My name is Isaac Louzeiro
 
 Recently my passion is create websites. I'm constantly evolving 👨‍💻.
 
-###  non dvcor dvco! 🇧🇷
+###  non ducor duco | 🇧🇷
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacLouzeiro&layout=compact)](https://github.com/IsaacLouzeiro/github-readme-stats)
 
 - 📍 From São Paulo living in São Paulo
 - 💻 Front-End Developer
-
-[![Isaac Louzeiro github stats](https://github-readme-stats.vercel.app/api?username=IsaacLouzeiro)](https://github.com/IsaacLouzeiro/github-readme-stats)
 
 reach out to me 👇
 
