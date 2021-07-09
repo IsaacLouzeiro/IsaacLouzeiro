@@ -9,6 +9,8 @@ Recently my passion is create websites. I'm constantly evolving 👨‍💻.
 - 📍 From São Paulo living in São Paulo
 - 💻 Front-End Developer
 
+[![Isaac Louzeiro github stats](https://github-readme-stats.vercel.app/api?username=IsaacLouzeiro)](https://github.com/IsaacLouzeiro/github-readme-stats)
+
 reach out to me 👇
 
 <a href="https://www.linkedin.com/in/isaac-louzeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
