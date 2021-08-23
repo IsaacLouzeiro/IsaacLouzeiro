@@ -13,7 +13,7 @@ Recently my passion is creating websites. I'm very curious and constantly search
 - 📍 From São Paulo living in São Paulo
 - 💻 Front-End Developer
 
-reach out to me 👇
+Please, reach out to me on the link below 👇
 
 <a href="https://www.linkedin.com/in/isaac-louzeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
