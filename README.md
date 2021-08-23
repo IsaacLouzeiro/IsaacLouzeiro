@@ -2,7 +2,7 @@
 
 My name is Isaac Louzeiro
 
-Recently my passion is create websites. I'm constantly evolving 👨‍💻.
+Recently my passion is creating websites. I'm very curious and constantly searching for new things to learn 👨‍💻.
 
 ###  non ducor duco | 🇧🇷
 
