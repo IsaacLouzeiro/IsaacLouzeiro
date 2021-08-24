@@ -4,7 +4,7 @@ My name is Isaac Louzeiro
 
 Recently my passion is creating websites. I'm very curious and constantly searching for new things to learn 👨‍💻.
 
-###  non ducor duco | 🇧🇷
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacLouzeiro&show_icons=true&theme=radical)
 
