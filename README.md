@@ -1,16 +1,12 @@
-## Hey 👋
+## 👋 Hello! I'm Isaac Louzeiro
 
-My name is Isaac Louzeiro
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacLouzeiro&show_icons=true&theme=radical)
 
 Recently my passion is creating websites. I'm very curious and constantly searching for new things to learn 👨‍💻.
 
 - 📍  From São Paulo living in São Paulo
 - 💻 Front-End Developer
 - 👨🏻‍💻 Web Portfolio <a href="https://isaaclouzeiro.github.io/portfolio/" target="_blank">Isaac Louzeiro<a>
-
-<br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacLouzeiro&show_icons=true&theme=radical)
 
 Please, reach out to me on the link below 👇
 
