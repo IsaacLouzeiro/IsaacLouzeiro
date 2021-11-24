@@ -1,7 +1,11 @@
 ## 👋 Hello! I'm Isaac Louzeiro
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacLouzeiro&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacLouzeiro&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IsaacLouzeiro&layout=compact&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacLouzeiro&layout=compact&theme=radical" />
+</a>
 
 Recently my passion is creating websites. I'm very curious and constantly searching for new things to learn 👨‍💻.
 
