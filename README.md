@@ -1,5 +1,10 @@
 ## 👋 Hello! I'm Isaac Louzeiro
 
+### See this in
+<a href="https://github.com/IsaacLouzeiro/IsaacLouzeiro/blob/master/README.md" target="_blank"><img width="70px" src="lang-en.png" target="_blank"></a> 
+<a href="https://github.com/IsaacLouzeiro/IsaacLouzeiro/blob/master/README-PT.md" target="_blank"><img width="70px" src="lang-pt.png" target="_blank"></a>
+##
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=IsaacLouzeiro&layout=compact&show_icons=true&theme=radical" />
 </a>
@@ -10,9 +15,10 @@
 <br><br>
 Recently my passion is creating websites. I'm very curious and constantly searching for new things to learn 👨‍💻.
 
-- 📍  From São Paulo living in São Paulo
+&nbsp;
+- 📍  From São Paulo, living in São Paulo
 - 💻 Front-End Developer
-- 👨🏻‍💻 Website Portfolio <a href="https://isaaclouzeiro.github.io/portfolio/" target="_blank">Isaac Louzeiro<a>
+- 👨🏻‍💻 Portfolio (Website) <a href="https://isaaclouzeiro.github.io/portfolio/" target="_blank">Isaac Louzeiro<a>
 
 Please, reach out to me on the link below 👇
 
