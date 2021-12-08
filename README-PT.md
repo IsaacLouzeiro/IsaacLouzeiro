@@ -1,8 +1,8 @@
 ## 👋 Olá! Eu sou o Isaac Louzeiro
 
-### Veja isso em
-<a href="https://github.com/IsaacLouzeiro/IsaacLouzeiro/blob/master/README.md" target="_blank"><img width="70px" src="lang-en.png" target="_blank"></a> 
-<a href="https://github.com/IsaacLouzeiro/IsaacLouzeiro/blob/master/README-PT.md" target="_blank"><img width="70px" src="lang-pt.png" target="_blank"></a>
+#### Veja isso em
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/IsaacLouzeiro/IsaacLouzeiro/blob/master/README.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/IsaacLouzeiro/IsaacLouzeiro/blob/master/README-PT.md)
 ##
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
