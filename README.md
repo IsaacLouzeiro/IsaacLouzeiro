@@ -1,4 +1,4 @@
-## 👋 Hello! I'm Isaac Louzeiro
+## 👋 Hello! I'm Isaac Louzeiro <img src="minha-logo.png" width="30px" />
 
 ### See this in
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/IsaacLouzeiro/IsaacLouzeiro/blob/master/README.md)
