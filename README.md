@@ -1,4 +1,4 @@
-## 👋 Hello! I'm Isaac Louzeiro <img src="minha-logo.png" width="30px" />
+## 👋 Hello! I'm Isaac Louzeiro
 
 ### See this in
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/IsaacLouzeiro/IsaacLouzeiro/blob/master/README.md)
@@ -22,7 +22,6 @@
 <br><br>
 
 Recently my passion is creating websites. I'm very curious and constantly searching for new things to learn 👨‍💻.
-
 &nbsp;
 - 📍  From São Paulo, living in São Paulo
 - 💻 Front-End Developer
