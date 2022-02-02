@@ -22,7 +22,6 @@
 
 <br><br>
 Recentemente minha paixão é criar sites. Eu sou uma pessoa curiosa e constantemente procurando coisas novas para aprender 👨‍💻.
-
 &nbsp;
 - 📍  De São Paulo, morando em São Paulo
 - 💻 Desenvolvedor Front-End
