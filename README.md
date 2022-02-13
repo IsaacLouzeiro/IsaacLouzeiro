@@ -25,7 +25,7 @@ Recently my passion is creating websites. I'm very curious and constantly search
 &nbsp;
 - 📍  From São Paulo, living in São Paulo
 - 💻 Front-End Developer
-- 👨🏻‍💻 Portfolio (Website) <a href="https://isaaclouzeiro.dev.br/" target="_blank">Isaac Louzeiro<a>
+- 👨🏻‍💻 Portfolio (Website): www.isaaclouzeiro.dev.br
 
 Please, reach out to me on the link below 👇
 
