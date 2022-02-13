@@ -20,8 +20,8 @@
 <span><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" width="40" title="JavaScript" /></span>
 <span><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="30" width="40" title="Vue JS" /></span>
 <br><br>
-Recentemente minha paixão é criar sites. Eu sou uma pessoa curiosa e constantemente procurando coisas novas para aprender 👨‍💻.
 
+Recentemente minha paixão é criar sites. Eu sou uma pessoa curiosa e constantemente procurando coisas novas para aprender 👨‍💻.
 &nbsp;
 - 📍  De São Paulo, morando em São Paulo
 - 💻 Desenvolvedor Front-End
