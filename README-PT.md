@@ -25,7 +25,7 @@ Recentemente minha paixão é criar sites. Eu sou uma pessoa curiosa e constante
 &nbsp;
 - 📍  De São Paulo, morando em São Paulo
 - 💻 Desenvolvedor Front-End
-- 👨🏻‍💻 Portifólio (Site) <a href="https://isaaclouzeiro.dev.br/" target="_blank">Isaac Louzeiro<a>
+- 👨🏻‍💻 Portifólio (Site): www.isaaclouzeiro.dev.br
 
 Por favor, entre em contato comigo pelos links abaixo 👇
 
