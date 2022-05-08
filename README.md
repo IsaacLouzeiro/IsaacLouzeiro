@@ -24,7 +24,7 @@ Recently my passion is creating websites. I'm very curious and constantly search
 - 💻 Front-End Developer
 - 👨🏻‍💻 Portfolio: www.isaaclouzeiro.dev.br
 - <img src="https://github.com/IsaacLouzeiro/IsaacLouzeiro/blob/master/youtube.png" width="20px" height="18px"> Youtube channel: <a href="https://www.youtube.com/c/isaaclouzeirodev" target="_blank"> Isaac Louzeiro Dev</a>
-- <img src="https://github.com/IsaacLouzeiro/IsaacLouzeiro/blob/master/codepen.png" width="20px"> My Codepen: <a href="https://codepen.io/isaaclouzeiro" target="_blank">Isaac E. Louzeiro (@isaaclouzeiro)</a>
+- <img src="https://github.com/IsaacLouzeiro/IsaacLouzeiro/blob/master/codepen.png" width="20px"> My Codepen: <a href="https://codepen.io/isaaclouzeiro" target="_blank">@isaaclouzeiro</a>
 
 
 Please, reach out to me on the link below 👇
