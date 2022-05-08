@@ -24,7 +24,7 @@ Recentemente minha paixão é criar sites. Eu sou uma pessoa curiosa e constante
 - 💻 Desenvolvedor Front-End
 - 👨🏻‍💻 Portifólio: www.isaaclouzeiro.dev.br
 - <img src="https://github.com/IsaacLouzeiro/IsaacLouzeiro/blob/master/youtube.png" width="20px" height="18px"> Canal no Youtube: <a href="https://www.youtube.com/c/isaaclouzeirodev" target="_blank"> Isaac Louzeiro Dev</a>
-- <img src="https://github.com/IsaacLouzeiro/IsaacLouzeiro/blob/master/codepen.png" width="20px"> Meu Codepen: <a href="https://codepen.io/isaaclouzeiro" target="_blank">Isaac E. Louzeiro (@isaaclouzeiro)</a>
+- <img src="https://github.com/IsaacLouzeiro/IsaacLouzeiro/blob/master/codepen.png" width="20px"> Meu Codepen: <a href="https://codepen.io/isaaclouzeiro" target="_blank">@isaaclouzeiro</a>
 
 Por favor, entre em contato comigo pelos links abaixo 👇
 
