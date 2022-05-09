@@ -16,6 +16,7 @@
 <span><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" width="40" title="JavaScript" /></span>
 <span><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="30" width="40" title="Vue JS" /></span>
 <span><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" height="30" width="40" title="Wordpress" /></span>
+<span><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" height="30" width="40" title="Trello" /></span>
 <br><br>
 
 Recently my passion is creating websites. I'm very curious and constantly searching for new things to learn 👨‍💻.
