@@ -11,11 +11,12 @@
 <br><br>
 <span><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" width="40" title="HTML5" /></span>
 <span><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" width="40" title="CSS3" /></span>
-<span><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="30" width="40" title="SASS" /></span>
+<span><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="30" width="40" title="SCSS" /></span>
 <span><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="30" title="Bootstrap" width="40" /></span>
 <span><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" width="40" title="JavaScript" /></span>
 <span><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="30" width="40" title="Vue JS" /></span>
 <span><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" height="30" width="40" title="Wordpress" /></span>
+<span><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-line.svg" height="30" width="40" title="Adobe XD" /></span>
 <span><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" height="30" width="40" title="Trello" /></span>
 <br><br>
 
