@@ -17,7 +17,6 @@
 <span><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="30" width="40" title="Vue JS" /></span>
 <span><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" height="30" width="40" title="Wordpress" /></span>
 <span><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-line.svg" height="30" width="40" title="Adobe XD" /></span>
-<span><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" height="30" width="40" title="Trello" /></span>
 <br><br>
 
 Recentemente minha paixão é criar sites. Eu sou uma pessoa curiosa e constantemente procurando coisas novas para aprender 👨‍💻.
