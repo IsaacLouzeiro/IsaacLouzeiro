@@ -1,24 +1,23 @@
-## <img src="https://github.com/IsaacLouzeiro/IsaacLouzeiro/blob/master/hi.gif" alt="Mão de Olá" title="Olá" width="40">  Olá! Eu sou o Isaac Louzeiro
+## <img src="https://github.com/IsaacLouzeiro/IsaacLouzeiro/blob/master/hi.gif" alt="Mão de Olá" title="Olá" width="40">  Olá! Me chamo Isaac Louzeiro
 
 #### Veja isso em
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/IsaacLouzeiro/IsaacLouzeiro/blob/master/README.md)
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/IsaacLouzeiro/IsaacLouzeiro/blob/master/README-PT.md)
-##
 
-```javascript
-// uma breve descrição
-let eu = {
-  nome: "Isaac",
-  idade: 20,
-  cidade: "São Paulo",
-  pais: "Brasil",
-  trabalho: "Desenvolvedor Web Front-End",
-  portifolio: "https://isaaclouzeiro.dev.br",
-  codepen: "https://codepen.io/isaaclouzeiro",
-  hobby: `Recentemente minha paixão é criar sites. Eu sou uma pessoa curiosa 
-          e constantemente procurando coisas novas para aprender.`
-}
-```
+## Sobre
+
+### Eu sou um Desenvolvedor Web Front-End de São Paulo, Brazil
+
+Eu gosto de mostrar minhas habilidades adicionando-as no meu Codepen, Github e Portifólio Web. Então, se você está interessado em como eu trabalho, não se esqueça de ver meus projetos 🙂.
+
+<a href="https://isaaclouzeiro.dev.br" target="_blank">
+  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+</a>
+
+<a href="https://codepen.io/isaaclouzeiro" target="_blank">
+  <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+</a>
+<br><br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacLouzeiro&layout=compact&langs_count=6&theme=dark" />
