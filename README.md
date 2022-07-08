@@ -1,5 +1,4 @@
 ## <img src="https://github.com/IsaacLouzeiro/IsaacLouzeiro/blob/master/hi.gif" alt="Hi hand" title="Hi" width="40"> Hello! I'm Isaac Louzeiro
-"Recently my passion is creating websites. I'm very curious and constantly searching for new things to learn."
 
 ### See this in 
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/IsaacLouzeiro/IsaacLouzeiro/blob/master/README.md)
