@@ -6,7 +6,7 @@
 
 ## Sobre
 
-### Eu sou um Desenvolvedor Web Front-End de São Paulo, Brazil
+### Eu sou um Desenvolvedor Web Front-End de São Paulo, Brasil
 
 Eu gosto de mostrar minhas habilidades adicionando-as no meu Codepen, Github e Portifólio Web. Então, se você está interessado em como eu trabalho, não se esqueça de ver meus projetos 🙂.
 
