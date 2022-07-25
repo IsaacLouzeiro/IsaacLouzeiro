@@ -8,7 +8,7 @@
 
 ### I'm a Front-End Web Developer From São Paulo, Brazil
 
-I like to show my abilities by putting them on my Codepen, Github, and Web Portfolio. So, if you are interested in how i work, don't forget to see my projects 🙂.
+I like to show my abilities by putting them on my Codepen, Github, and Web Portfolio. So, if you are interested in how I work, don't forget to see my projects 🙂.
 
 <a href="https://isaaclouzeiro.dev.br" target="_blank">
   <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
