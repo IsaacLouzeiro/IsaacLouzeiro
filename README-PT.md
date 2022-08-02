@@ -6,7 +6,7 @@
 
 ### Eu sou um Desenvolvedor Web Front-End de São Paulo, Brasil
 
-Eu gosto de mostrar minhas habilidades adicionando-as no meu Codepen, Github e Portifólio Web. Então, se você está interessado em como eu trabalho, não se esqueça de ver meus projetos 🙂.
+Eu gosto de mostrar minhas habilidades adicionando-as no meu Codepen, Github e Portifólio Web. Então, se você está interessado em saber como eu trabalho, não se esqueça de ver meus projetos 🙂.
 
 <a href="https://isaaclouzeiro.dev.br" target="_blank">
   <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
