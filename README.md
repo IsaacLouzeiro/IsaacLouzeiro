@@ -1,5 +1,3 @@
-## <img src="https://github.com/IsaacLouzeiro/IsaacLouzeiro/blob/master/hi.gif" alt="Hi hand" title="Hi" width="40"> Hello! I'm Isaac Louzeiro
-
 ### See this in 
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/IsaacLouzeiro/IsaacLouzeiro/blob/master/README.md)
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/IsaacLouzeiro/IsaacLouzeiro/blob/master/README-PT.md)
