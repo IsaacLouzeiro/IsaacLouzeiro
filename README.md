@@ -6,7 +6,7 @@
 
 ### I'm a Front-End Web Developer From São Paulo, Brazil
 
-> **Technician of Systems Development**, Public Technical School, São Paulo
+> **Systems Development Technician**, Public Technical School, São Paulo
 
 I like to show my abilities by putting them on my Codepen, Github, and Web Portfolio. So, if you are interested to know how I work, don't forget to see my projects 🙂.
 
