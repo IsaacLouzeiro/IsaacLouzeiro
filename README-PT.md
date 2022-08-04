@@ -6,6 +6,8 @@
 
 ### Eu sou um Desenvolvedor Web Front-End de São Paulo, Brasil
 
+> **Técnico em Desenvolvimento de Sistemas**, Escola Técnica Estadual, São Paulo
+
 Eu gosto de mostrar minhas habilidades adicionando-as no meu Codepen, Github e Portifólio Web. Então, se você está interessado em saber como eu trabalho, não se esqueça de ver meus projetos 🙂.
 
 <a href="https://isaaclouzeiro.dev.br" target="_blank">
