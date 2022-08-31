@@ -8,8 +8,7 @@
 
 > **Systems Development Technician**, State Technical School, São Paulo
 
-I like to show my abilities by putting them on my Codepen, Github, and Web Portfolio. So, if you are interested to know how I work, don't forget to see my projects 🙂.<br>
-I am a very curious person, who likes to learn and expand my knowledge. Every day I try to improve my skills so that I can grow professionally.
+I like to show my abilities by putting them on my Codepen, Github, and Web Portfolio. So, if you are interested to know how I work, don't forget to see my projects 🙂.
 
 <a href="https://isaaclouzeiro.dev.br" target="_blank">
   <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
@@ -17,11 +16,6 @@ I am a very curious person, who likes to learn and expand my knowledge. Every da
 
 <a href="https://codepen.io/isaaclouzeiro" target="_blank">
   <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
-</a>
-<br><br>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacLouzeiro&layout=compact&langs_count=6&theme=dark" />
 </a>
 <br><br>
 
