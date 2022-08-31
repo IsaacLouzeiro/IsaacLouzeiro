@@ -8,8 +8,7 @@
 
 > **Técnico em Desenvolvimento de Sistemas**, Escola Técnica Estadual, São Paulo
 
-Eu gosto de mostrar minhas habilidades adicionando-as no meu Codepen, Github e Portifólio Web. Então, se você está interessado em saber como eu trabalho, não se esqueça de ver meus projetos 🙂.<br>
-Sou uma pessoa bastante curiosa, que gosta de aprender e expandir meus conhecimentos. A cada dia tento melhorar minhas habilidades para que eu possa crescer profissionalmente.
+Eu gosto de mostrar minhas habilidades adicionando-as no meu Codepen, Github e Portifólio Web. Então, se você está interessado em saber como eu trabalho, não se esqueça de ver meus projetos 🙂.
 
 
 <a href="https://isaaclouzeiro.dev.br" target="_blank">
@@ -18,11 +17,6 @@ Sou uma pessoa bastante curiosa, que gosta de aprender e expandir meus conhecime
 
 <a href="https://codepen.io/isaaclouzeiro" target="_blank">
   <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
-</a>
-<br><br>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacLouzeiro&layout=compact&langs_count=6&theme=dark" />
 </a>
 <br><br>
 
