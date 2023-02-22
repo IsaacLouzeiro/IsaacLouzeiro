@@ -4,7 +4,7 @@
 
 ## About
 
-### I'm a Front-End Web Developer From São Paulo, Brazil
+### I'm a Web Developer From São Paulo, Brazil
 
 > **Information Technology Management**, State Technological College, São Paulo
 
