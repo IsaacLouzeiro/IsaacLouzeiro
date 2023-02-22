@@ -4,7 +4,7 @@
 
 ## Sobre
 
-### Eu sou um Desenvolvedor Web Front-End de São Paulo, Brasil
+### Eu sou um Desenvolvedor Web de São Paulo, Brasil
 
 > **Gestão da Tecnologia da Informação**, Faculdade de Tecnologia do Estado, São Paulo
 
