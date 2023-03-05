@@ -36,6 +36,7 @@ I like to show my abilities by putting them on my Codepen, Github, and Web Portf
 <span><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="30" width="40" title="Figma" /></span>
 <span><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30" width="40" title="Git" /></span>
 -->
+
 Please, reach out to me on the link below 👇
 
 <a href="https://instagram.com/isaac.louzeiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
