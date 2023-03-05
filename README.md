@@ -25,7 +25,7 @@ I like to show my abilities by putting them on my Codepen, Github, and Web Portf
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacLouzeiro&layout=compact&langs_count=6&theme=dark" />
 </a>
 <br><br>
-
+<!--
 <span><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" width="40" title="HTML5" /></span>
 <span><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" width="40" title="CSS3" /></span>
 <span><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="30" width="40" title="SCSS" /></span>
@@ -35,7 +35,7 @@ I like to show my abilities by putting them on my Codepen, Github, and Web Portf
 <span><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="30" width="40" title="Wordpress" /></span>
 <span><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="30" width="40" title="Figma" /></span>
 <span><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30" width="40" title="Git" /></span>
-
+-->
 Please, reach out to me on the link below 👇
 
 <a href="https://instagram.com/isaac.louzeiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
