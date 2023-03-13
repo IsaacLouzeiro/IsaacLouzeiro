@@ -38,8 +38,7 @@ Eu gosto de mostrar minhas habilidades adicionando-as no meu Codepen, Github e P
 <span><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30" width="40" title="Git" /></span>
 -->
 
-Por favor, entre em contato comigo pelos links abaixo 👇
+Entre em contato comigo 👇
 
-<a href="https://instagram.com/isaac.louzeiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:isaacelias1110@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/isaac-louzeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
