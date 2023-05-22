@@ -25,17 +25,14 @@ I like to show my abilities by putting them on my Codepen, Github, and Web Portf
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacLouzeiro&layout=compact&langs_count=6&theme=dark" />
 </a>
 <br><br>
-<!--
+
 <span><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" width="40" title="HTML5" /></span>
 <span><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" width="40" title="CSS3" /></span>
 <span><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="30" width="40" title="SCSS" /></span>
 <span><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="30" title="Bootstrap" width="40" /></span>
 <span><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" width="40" title="JavaScript" /></span>
+<span><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="30" width="40" title="TypeScript" /></span>
 <span><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="30" width="40" title="Vue JS" /></span>
-<span><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="30" width="40" title="Wordpress" /></span>
-<span><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="30" width="40" title="Figma" /></span>
-<span><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30" width="40" title="Git" /></span>
--->
 
 Reach out to me 👇
 
