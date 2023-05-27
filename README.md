@@ -33,6 +33,7 @@ I like to show my abilities by putting them on my Codepen, Github, and Web Portf
 <span><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" width="40" title="JavaScript" /></span>
 <span><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="30" width="40" title="TypeScript" /></span>
 <span><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="30" width="40" title="Vue JS" /></span>
+<span><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" height="30" width="40" title="Angular" /></span>
 
 Reach out to me 👇
 
