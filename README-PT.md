@@ -23,7 +23,7 @@ Eu gosto de mostrar minhas habilidades adicionando-as no meu Codepen, Github e P
 <br><br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacLouzeiro&layout=compact&langs_count=6&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacLouzeiro&layout=compact&langs_count=7&theme=dark" />
 </a>
 <br><br>
 
