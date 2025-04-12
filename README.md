@@ -1,41 +1,45 @@
-### See this in 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/IsaacLouzeiro/IsaacLouzeiro/blob/master/README.md)
+### 🌐 See this in  
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/IsaacLouzeiro/IsaacLouzeiro/blob/master/README.md)  
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/IsaacLouzeiro/IsaacLouzeiro/blob/master/README-PT.md)
 
-## About
+## 🧠 About Me
 
-### I'm a Web Developer From São Paulo, Brazil
+### 🎯 I'm a Red Team & Pentest Enthusiast from São Paulo, Brazil
 
-> **Information Technology Management**, State Technological College, São Paulo
+> 💼 **Cyber Security Analyst**, São Paulo – SP  
+> 🎓 **Information Technology Management**, State Technological College (FATEC)  
+> 🖥️ **Systems Development Technician**, State Technical School (ETEC)
 
-> **Systems Development Technician**, State Technical School, São Paulo
+---
 
-I like to show my abilities by putting them on my Codepen, Github, and Web Portfolio. So, if you are interested to know how I work, don't forget to see my projects 🙂.
+I'm passionate about **offensive security**, with a strong focus on:
 
-<a href="https://isaaclouzeiro.dev.br" target="_blank">
-  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-</a>
+- 🏴 Red Team operations  
+- 🐚 Penetration Testing  
+- 💣 Real-world attack simulations  
+- 👨‍💻 Hands-on labs and CTFs  
 
-<a href="https://codepen.io/isaaclouzeiro" target="_blank">
-  <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
-</a>
-<br><br>
+🎖️ **Certifications & Achievements**
+- 🧾 **eJPT Certified** (INE Security)  
+- 🔄 **PNPT in Progress** (Practical Network Penetration Tester – TCM Security)  
+- 🏁 Completed **Hack The Box Dante Pro Lab**  
+- 🏆 **Top 5% on TryHackMe**  
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacLouzeiro&layout=compact&langs_count=7&theme=dark" />
-</a>
-<br><br>
+🧪 Constantly learning through platforms like **Hack The Box**, **TryHackMe**, and practical courses such as **PEH by TCM Security**.
 
-<span><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" width="40" title="HTML5" /></span>
-<span><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" width="40" title="CSS3" /></span>
-<span><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="30" width="40" title="SCSS" /></span>
-<span><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="30" title="Bootstrap" width="40" /></span>
-<span><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" width="40" title="JavaScript" /></span>
-<span><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="30" width="40" title="TypeScript" /></span>
-<span><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="30" width="40" title="Vue JS" /></span>
-<span><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" height="30" width="40" title="Angular" /></span>
+---
 
-Reach out to me 👇
+### 🔬 My Interests:
+- 🌐 Network Hacking  
+- 📱 Mobile Hacking  
+- 📡 Wireless Attacks  
+- 🔌 Hardware Hacking  
+- 🎣 Phishing Techniques  
+- 🏹 Active Directory Attacks & Post-Exploitation  
 
-<a href = "mailto:isaacelias1110@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/isaac-louzeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+---
+
+If you're into **cybersecurity**, feel free to connect and exchange knowledge! 🚀  
+Let's break stuff (ethically) and learn together 😄
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-louzeiro/)
