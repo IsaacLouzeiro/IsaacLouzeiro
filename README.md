@@ -20,8 +20,9 @@ I'm passionate about **offensive security**, with a strong focus on:
 - 👨‍💻 Hands-on labs and CTFs  
 
 🎖️ **Certifications & Achievements**
-- 🧾 **eJPT Certified** (INE Security)  
-- 🔄 **PNPT in Progress** (Practical Network Penetration Tester – TCM Security)  
+- 🧾 **Junior Penetration Tester [eJPT]** (INE Security)
+- 🧾 **Web Application Penetration Tester [eWPT]** (INE Security)
+- 🧾 **Certified Red Team Analyst [CRTA]** (CyberWarfare Labs)   
 - 🏁 Completed **Hack The Box Dante Pro Lab**  
 - 🏆 **Top 5% on TryHackMe**  
 
