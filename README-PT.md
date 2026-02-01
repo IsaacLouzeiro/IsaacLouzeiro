@@ -21,6 +21,7 @@ Sou apaixonado por **segurança ofensiva**, com foco em:
 
 🎖️ **Certificações & Conquistas**
 - 🧾 **Junior Penetration Tester [eJPT]** (INE Security)
+- 🧾 **Mobile Application Penetration Tester [eMAPT]** (INE Security)
 - 🧾 **Web Application Penetration Tester [eWPT]** (INE Security)
 - 🧾 **Certified Red Team Analyst [CRTA]** (CyberWarfare Labs)    
 - 🏁 Finalizado o **Hack The Box Dante Pro Lab**  
